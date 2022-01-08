@@ -7,6 +7,10 @@
    <a href="https://instagram.com/khaydarov_abbos">
         <img alt="Instagram"
              src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=red"></a>
+             
+            
+       
+             
 
 
 
