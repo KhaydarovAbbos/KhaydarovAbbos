@@ -1,6 +1,8 @@
 ### Khaydarov Abbos
 
-<a href="https://t.me/coder_abbos" target="_blank"><img src="https://t.me/coder_abbos" alt="https://t.me/coder_abbos" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+   <a href="https://t.me/coder_abbos">
+        <img alt="Telegram"
+             src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
 
 
