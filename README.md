@@ -1,4 +1,5 @@
 ### Khaydarov Abbos
+<div id="top"></div>
 
    <a href="https://t.me/coder_abbos">
         <img alt="Telegram"
@@ -8,6 +9,9 @@
         <img alt="Instagram"
              src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=red"></a>
              
+             
+[![GitHub contributors](https://img.shields.io/github/contributors/Khaydarovabbos/Khaydarovabbos.svg?color=red)](https://github.com/khaydarovabbos/Khaydarovabbos/network)  
+[![GitHub contributors](https://img.shields.io/github/contributors/Khaydarovabbos/Khaydarovabbos.svg?color=red)](https://github.com/khaydarovabbos/Khaydarovabbos/network)
             
        
              
