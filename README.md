@@ -11,7 +11,6 @@
              
              
 [![GitHub contributors](https://img.shields.io/github/contributors/Khaydarovabbos/Khaydarovabbos.svg?color=red)](https://github.com/khaydarovabbos/Khaydarovabbos/network)  
-[![GitHub contributors](https://img.shields.io/github/contributors/Khaydarovabbos/Khaydarovabbos.svg?color=red)](https://github.com/khaydarovabbos/Khaydarovabbos/network)
             
        
              
