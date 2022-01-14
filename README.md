@@ -5,6 +5,8 @@
    <h1 align="center">
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/cloud"><img src="https://img.shields.io/badge/DotNet developer from Uzbekistan-orange?style=for-the-badge&color=283593" /></a>&nbsp;
 
+![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khaydarovabbos&show_icons=true&theme=tokyonight&count_private=true)
+
 <p align="left">
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors"><img src="https://img.shields.io/badge/Connect%20With%20Me-orange?style=for-the-badge&color=4CAF50" /></a>&nbsp;
    
@@ -34,7 +36,7 @@
 <a href="https://www.windows.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/> 
 
 
-  ![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khaydarovabbos&show_icons=true&theme=tokyonight&count_private=true)
+
    
             
        
