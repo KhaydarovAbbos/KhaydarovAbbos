@@ -35,6 +35,8 @@
    
    
    
+    
+![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khaydarovabbos&show_icons=true&theme=tokyonight&count_private=true)
             
        
              
