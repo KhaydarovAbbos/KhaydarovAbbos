@@ -31,12 +31,11 @@
  <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="windows" width="40" height="40"/>
  <align="left">
-<a href="https://www.windows.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/> </a> 
+<a href="https://www.windows.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/> 
+
+
+  ![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khaydarovabbos&show_icons=true&theme=tokyonight&count_private=true)
    
-   
-   
-    
-![Maisie Wutsimon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=khaydarovabbos&show_icons=true&theme=tokyonight&count_private=true)
             
        
              
