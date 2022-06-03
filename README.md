@@ -15,7 +15,7 @@
            height="30" 
            width="40"/>
    </a>
-   <a href="https://instagram.com/khaydarov_abbos" target="blank">
+   <a href="https://instagram.com/iabboskhan" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                        alt="khaydarov_abbos" 
            height="30" 
            width="40" />
