@@ -125,6 +125,11 @@
  
 </p>
 
+ 
+  
+ ![Snake animation](https://github.com/KhaydarovAbbos/KhaydarovAbbos/blob/main/github-contribution-grid-snake.svg)
+ 
+   
 
   
 
