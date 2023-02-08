@@ -26,8 +26,8 @@
            width="40" />
    </a>
    
-   <a href="https://mail.google.com/khaydarovabbos2005@gmail.com" target="blank">
-      <img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"                            alt="khaydarovabbos2005@gmail.com" 
+   <a href="https://mail.google.com/iabbos.kh@gmail.com" target="blank">
+      <img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"                            alt="iabbos.kh@gmail.com" 
            height="30" 
            width="40" />
    </a>
