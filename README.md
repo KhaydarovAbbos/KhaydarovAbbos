@@ -6,7 +6,7 @@
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/cloud"><img src="https://img.shields.io/badge/DotNet developer from Uzbekistan-orange?style=for-the-badge&color=283593" /></a>&nbsp;
 
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=Khaydarovabbos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="muhammad-abdulloh's Github Stats"
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=Khaydarovabbos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Abbos's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=Khaydarovabbos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KhaydarovAbbos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="Abbos's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Khaydarovabbos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
